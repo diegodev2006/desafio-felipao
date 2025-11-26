@@ -25,3 +25,4 @@ nivel = " Ferro ";
 // 3 saída final
 console.log (" O Heroí de nome " + nomeDoHeroi + " está no nível " + nivel) 
 
+// finalizado o código
